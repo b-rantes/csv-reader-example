@@ -1,2 +1,2 @@
 # csv-reader-example
-A challenge proposed by ChatGPT to develop a CSV Reader that reads a CSV with data of sellers and total selled by month, calculating the mean by vendor by month
+ChatGPT has proposed a challenge to develop a CSV reader that can read a CSV file containing data on sellers and the total amount sold by month. The reader should be able to calculate the mean sales per vendor per month.
